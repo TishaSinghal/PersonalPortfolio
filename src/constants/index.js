@@ -162,7 +162,7 @@ import {
       points: [
         "Second Position at FaceTheCase by NSUT, Delhi [March,2022]",
         "AIR45 in Codeblooded 3.0 by CodechefADGITM x CodingNinjas [April,2023]",
-        "Third Position at SmartTank by SBSEC ,Delhi [April, 2023]",
+        "Third Position at SmartTank by SBSEC ,Delhi [April,2023]",
       ],
     },
     {
@@ -172,11 +172,11 @@ import {
       iconBg: "#FFFFFF",
       date: "",
       points: [
-        "Successfully completed Include <Her> Cohort 2.0 [June2023]",
-        "Selected as an open source contributor for Social Summer of Code Season2 [June 2023]",
-        "Selected for Web Developement internship position at CodeSoft [July 2023]",
-        "Selected for the Virtual Internship Program at Bharat Intern as Full stack Web Developer [July 2023]",
-        "Executive member at CodechefADGITM [Januarary 2023]"
+        "Successfully completed Include <Her> Cohort 2.0 [June,2023]",
+        "Selected as an open source contributor for Social Summer of Code Season2 [June,2023]",        
+        "Software Engineering Virtual Experience Program Participant at Goldman Sachs[August,2023]",
+        "Successfully completed Include <Her> Cohort 3.0 DevOps [June2023]",
+        "Executive member at CodechefADGITM"
       ], 
     },    
   ];
@@ -213,7 +213,7 @@ import {
       name: "Card Payment",
       wlink: "https://react-website-two-beryl.vercel.app/",
       description:
-        "Web-based modern platform for a company that deals with card payment.",
+        "A visually appealing website for a business with an engaging frontend.",
       tags: [
         {
           name: "react",
@@ -278,7 +278,7 @@ import {
     {
       name: "Luck Game",
       description:
-        "A luck based gamed build on javascript for better understanding of concepts.",
+        "A console based user interactive luck game.",
       tags: [
         {
           name: "javascript",
